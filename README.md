@@ -1,5 +1,5 @@
 # testing_javascript
-Introduction to JavaScript
+Testing my first website
 
 <!DOCTYPE html> 
 <html>
