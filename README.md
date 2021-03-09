@@ -46,7 +46,7 @@ Introduction to JavaScript
 		    <a href="https://www.linkedin.com/in/nelson-p-021729200/" target="_blank">Linkedin do Nelson</a>
 		  </li>
 		  <li>
-		  <a href="mailto:nelson.amazonas@gmail.com">nelson.amazonas@gmail</a>
+		  <a href="mailto:nelson.amazonas@gmail.com">nelson.amazonas@gmail.com</a>
 		  </li>
 		</ul>  
 	 </footer> 
