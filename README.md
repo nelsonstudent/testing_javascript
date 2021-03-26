@@ -1,4 +1,4 @@
-# testing_javascript
+# Testing JAVASCRIPT
 Testing my first website
 
 <!DOCTYPE html> 
