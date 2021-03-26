@@ -22,7 +22,7 @@ Testing my first website
 		    <h3 class="post_title">Meu relato</h3>
 		  </header>
 		  <p class="post_content">
-			<img src="https://www.instagram.com/tivqfazer/.jpg" alt="minha imagem" class="post_photo"> 
+			<img src="https://br.stockfresh.com/image/9241632/thumb-up-emoticon" alt="minha imagem" class="post_photo"> 
 			Aprender do zero e via EAD qualquer assunto não é fácil, 
 			principalmente quando se tem que dividir a tarefa de estudar 
 			com as tarefas de casa e do trabalho. O contexto só piora 
